@@ -90,4 +90,3 @@ Dual line chart showing how each platform grew its content library from 2000 to 
 Computer Engineering Graduate — SUNY Binghamton  
 Seeking Data Engineer & Data Analytics roles  
 
-[LinkedIn](#) • [GitHub](#) • [Portfolio](#)
